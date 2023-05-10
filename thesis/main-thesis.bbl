@@ -1,0 +1,114 @@
+\begin{thebibliography}{10}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{#1}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibversion}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\newline\url{#1}}
+
+\bibitem{book1}
+\bibauthor{中华人民共和国商务部电子商务和信息化司}\@. \bibbooktitle{中国电子商务报告(2021)}\bibmark{[M]}\@. \bibaddress{北京}\thinspace{}\textnormal{: }\bibpublisher{中国商务出版社}\@, \bibyear{2022}\thinspace{}\textnormal{: }\bibpages{2\thinspace{}\textnormal{--}\thinspace{}7}\@.
+
+\bibitem{book2}
+\bibauthor{智研咨询}\@. \bibbooktitle{《2020-2026年中国服装纺织电子商务行业市场需求潜力及战略咨询研究报告》}\bibmark{[M]}\@. \bibaddress{北京}\thinspace{}\textnormal{: }\bibpublisher{中国产业信息网}\@, \bibyear{2020}\thinspace{}\textnormal{: }\bibpages{546\thinspace{}\textnormal{--}\thinspace{}579}\@.
+
+\bibitem{book3}
+\bibauthor{Dong X\@, Gabrilovich E\@, Heitz G}\@. \bibbooktitle{Knowledge vault:a web-scale approach to probabilistic knowledge fusion}\bibmark{[M]}\@. \bibaddress{New York}\thinspace{}\textnormal{: }\bibpublisher{ACM}\@, \bibyear{2014}\@.
+
+\bibitem{article4}
+\bibauthor{Lehmann J\@, Isele R\@, Jakob M}\@. \bibtitle{DBpedia - A Large-scale, Multilingual Knowledge Base Extracted from Wikipedia}\bibmark{[J]}\@. \bibjournal{Semantic Web}\@, \bibyear{2015}\@, \bibvolume{6}\bibnumber{(2)}\thinspace{}\textnormal{: }\bibpages{167\thinspace{}\textnormal{--}\thinspace{}195}\@.
+
+\bibitem{article5}
+\bibauthor{Jin H\@, Li C\@, Zhang J}\@. \bibtitle{XLORE2:large-scale cross-lingual knowledge graph construction and application}\bibmark{[J]}\@. \bibjournal{Data Intelligence}\@, \bibyear{2019}\@, \bibvolume{1}\bibnumber{(1)}\thinspace{}\textnormal{: }\bibpages{77\thinspace{}\textnormal{--}\thinspace{}98}\@.
+
+\bibitem{book6}
+\bibauthor{Xing N\@, Sun X\@, Wang H}\@. \bibbooktitle{Zhishi.me}\bibmark{[M]}\@. \bibaddress{Berlin}\thinspace{}\textnormal{: }\bibpublisher{Springer Berlin Heidelberg}\@, \bibyear{2011}\@.
+
+\bibitem{inproceedings7}
+\bibauthor{Granberg J\@, Minock M}\@. \bibtitle{A natural language interface over the musicbrainz database}\bibmark{[C]} //\thinspace{}\bibbooktitle{Proceedings of the QALD-1 workshop,1st Workshop on Question Answering over Linked Data, Heraklion, Greece,30 May 2011}\@. \bibyear{2011}\thinspace{}\textnormal{: }\bibpages{38\thinspace{}\textnormal{--}\thinspace{}43}\@.
+
+\bibitem{article9}
+\bibauthor{Weible C}\@. \bibtitle{The Internet movie database: a reference guide to Hollywood and beyond}\bibmark{[J]}\@. \bibjournal{Internet reference services quarterly}\@, \bibyear{2011}\@, \bibvolume{6}\bibnumber{(2)}\thinspace{}\textnormal{: }\bibpages{47\thinspace{}\textnormal{--}\thinspace{}50}\@.
+
+\bibitem{article8}
+\bibauthor{Wick M}\@. \bibtitle{Boutreux C.GeoNames}\bibmark{[J]}\@. \bibjournal{GeoNames Geographical Database}\@, \bibyear{2011}\thinspace{}\textnormal{: }\bibpages{3\thinspace{}\textnormal{--}\thinspace{}8}\@.
+
+\bibitem{inproceedings10}
+\bibauthor{Derose P\@, Shen W\@, Fei C}\@. \bibtitle{DBLife: A Community Information Management Platform for the Database Research Community (Demo)}\bibmark{[C]} //\thinspace{}\bibbooktitle{Proceedings of the third Biennial Conference on Innovative Data Systems Research, Asilomar,USA,Online Proceedings}\@. \bibyear{2007}\thinspace{}\textnormal{: }\bibpages{169\thinspace{}\textnormal{--}\thinspace{}172}\@.
+
+\bibitem{mastersthesis11}
+\bibauthor{余晓鹏}\@. \bibtitle{服装知识图谱构建及嵌入研究}\bibmark{[D]}\@. \bibaddress{武汉}\thinspace{}\textnormal{: }\bibschool{武汉纺织大学}\@, \bibyear{2022}\@.
+
+\bibitem{mastersthesis12}
+\bibauthor{李娜}\@. \bibtitle{基于知识图谱的问答系统的研究}\bibmark{[D]}\@. \bibaddress{四川}\thinspace{}\textnormal{: }\bibschool{电子科技大学}\@, \bibyear{2021}\@.
+
+\bibitem{article13}
+\bibauthor{李铁飞\@, 生龙\@, 吴迪}\@. \bibtitle{BERT-TECNN 模型的文本分类方法研究}\bibmark{[J]}\@. \bibjournal{计算机工程与应用}\@, \bibyear{2021}\@, \bibvolume{57}\bibnumber{(18)}\thinspace{}\textnormal{: }\bibpages{186\thinspace{}\textnormal{--}\thinspace{}193}\@.
+
+\bibitem{article14}
+\bibauthor{Hochreiter S\@, Schmidhuber J}\@. \bibtitle{Long Short-Term Memory}\bibmark{[J]}\@. \bibjournal{Neural Computation}\@, \bibyear{1997}\@, \bibvolume{9}\bibnumber{(8)}\thinspace{}\textnormal{: }\bibpages{1735\thinspace{}\textnormal{--}\thinspace{}1780}\@.
+
+\bibitem{article15}
+\bibauthor{Weible C}\@. \bibtitle{The Internet movie database: a reference guide to Hollywood and beyond}\bibmark{[J]}\@. \bibjournal{Internet reference services quarterly}\@, \bibyear{2001}\@, \bibvolume{6}\bibnumber{(2)}\thinspace{}\textnormal{: }\bibpages{47\thinspace{}\textnormal{--}\thinspace{}50}\@.
+
+\bibitem{mastersthesis16}
+\bibauthor{俞逸洋}\@. \bibtitle{基于服装服饰知识图谱的研究与应用}\bibmark{[D]}\@. \bibaddress{武汉}\thinspace{}\textnormal{: }\bibschool{武汉纺织大学}\@, \bibyear{2022}\@.
+
+\bibitem{article17}
+\bibauthor{潘王蕾\@, 何瑛}\@. \bibtitle{基于个性化推荐的服装知识图谱构建}\bibmark{[J]}\@. \bibjournal{服装学报}\@, \bibyear{2022}\thinspace{}\textnormal{: }\bibpages{2\thinspace{}\textnormal{--}\thinspace{}5}\@.
+
+\bibitem{inproceedings18}
+\bibauthor{Liu，h\@, Wu Y\@, Yang Y}\@. \bibtitle{Analogical inference for multi-relational embeddings}\bibmark{[C]} //\thinspace{}\bibbooktitle{Proceedings of the 2017 International Conference on Machine Learning. New York: ACM}\@. \bibyear{2017}\thinspace{}\textnormal{: }\bibpages{2168\thinspace{}\textnormal{--}\thinspace{}2178}\@.
+
+\bibitem{inproceedings19}
+\bibauthor{Vashisihth S\@, Sanyal S\@, Nitin V}\@. \bibtitle{Interacte:Improving convolution-based knowledge graph embeddings by increasing feature interactions}\bibmark{[C]} //\thinspace{}\bibbooktitle{Proceedings of the 2020 AAAI Conference on Artificial Intelligence.New York:AAAI\thinspace{}\textnormal{: }Vol~34}\@. \bibyear{2020}\thinspace{}\textnormal{: }\bibpages{3009\thinspace{}\textnormal{--}\thinspace{}3016}\@.
+
+\bibitem{inproceedings20}
+\bibauthor{Zhang Z\@, Cai J\@, Zhang Y}\@. \bibtitle{Learning hierarchy-aware knowledge graph embeddings for link prediction}\bibmark{[C]} //\thinspace{}\bibbooktitle{Proceedings of the 2020 AAAI Conference on Artificial Intelligence.New York:AAAI\thinspace{}\textnormal{: }Vol~34}\@. \bibyear{2020}\thinspace{}\textnormal{: }\bibpages{3065\thinspace{}\textnormal{--}\thinspace{}3072}\@.
+
+\bibitem{inproceedings21}
+\bibauthor{Ren F\@, Li J\@, Zhang H}\@. \bibtitle{Knowledge Graph Embedding with Atrous Convolution and Residual Learning}\bibmark{[C]} //\thinspace{}\bibbooktitle{Proceedings of the 2020 International Conference on Computational Linguistics.New York:ACM}\@. \bibyear{2020}\thinspace{}\textnormal{: }\bibpages{1532\thinspace{}\textnormal{--}\thinspace{}1543}\@.
+
+\bibitem{article22}
+\bibauthor{Yang B\@, Yih W\@, He X}\@. \bibtitle{Embedding entities and relations for learning and inference in knowledge bases}\bibmark{[J]}\@. \bibjournal{arXiv preprint arXiv:1412.6575}\@, \bibyear{2014}\thinspace{}\textnormal{: }\bibpages{1\thinspace{}\textnormal{--}\thinspace{}5}\@.
+
+\bibitem{mastersthesis23}
+\bibauthor{申豪杰}\@. \bibtitle{基于知识图谱的电影知识问答系统研究与实现}\bibmark{[D]}\@. \bibaddress{重庆}\thinspace{}\textnormal{: }\bibschool{重庆师范大学}\@, \bibyear{2019}\@.
+
+\bibitem{mastersthesis24}
+\bibauthor{李轩}\@. \bibtitle{基于知识图谱的教育领域知识问答系统的研究与应用}\bibmark{[D]}\@. \bibaddress{长春}\thinspace{}\textnormal{: }\bibschool{吉林大学}\@, \bibyear{2019}\@.
+
+\bibitem{article25}
+\bibauthor{徐增林\@, 盛泳潘\@, 贺丽荣}\@. \bibtitle{知识图谱技术综述}\bibmark{[J]}\@. \bibjournal{电子科技大学学报}\@, \bibyear{2016}\@, \bibvolume{45}\bibnumber{(4)}\thinspace{}\textnormal{: }\bibpages{589\thinspace{}\textnormal{--}\thinspace{}606}\@.
+
+\bibitem{mastersthesis26}
+\bibauthor{魏力}\@. \bibtitle{基于知识图谱的风控模型的研究与实现}\bibmark{[D]}\@. \bibaddress{南京}\thinspace{}\textnormal{: }\bibschool{南京航空航天大学}\@, \bibyear{2019}\@.
+
+\bibitem{article27}
+\bibauthor{Noy N\@, Mcguinness D}\@. \bibtitle{Ontology development 101: A guide to creating your first ontology}\bibmark{[J]}\@. \bibjournal{And Stanford Medical Informatics}\@, \bibyear{2001}\@, \bibvolume{17}\bibnumber{(2)}\thinspace{}\textnormal{: }\bibpages{137\thinspace{}\textnormal{--}\thinspace{}141}\@.
+
+\bibitem{inproceedings28}
+\bibauthor{Kietz J\@, Volz R\@, Maedche A}\@. \bibtitle{Extracting a domain-specific ontology from a corporate intranet}\bibmark{[C]} //\thinspace{}\bibbooktitle{Proceedings of the 2nd workshop on Learning Language in Logic and the 4th Conference on Computational Natural Language Learning-Volume}\@. \bibyear{2000}\thinspace{}\textnormal{: }\bibpages{167\thinspace{}\textnormal{--}\thinspace{}175}\@.
+
+\bibitem{book29}
+\bibauthor{倪渑}\@. \bibbooktitle{服装形象设计}\bibmark{[M]}\@. \bibaddress{北京}\thinspace{}\textnormal{: }\bibpublisher{中国纺织出版社}\@, \bibyear{2012}\thinspace{}\textnormal{: }\bibpages{2\thinspace{}\textnormal{--}\thinspace{}4}\@.
+
+\end{thebibliography}
